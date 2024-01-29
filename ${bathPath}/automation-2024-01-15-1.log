@@ -1,0 +1,18 @@
+12:07:47.869 [main] INFO  - ******* Create user *******
+12:16:42.222 [main] INFO  - ******* Create user *******
+12:16:43.991 [main] INFO  - ******* Read user *******
+12:16:44.181 [main] INFO  - ******* Update user *******
+12:16:44.356 [main] INFO  - ******* Delete user *******
+15:50:25.388 [main] INFO  - ******* Create user *******
+15:50:25.410 [main] INFO  - ******* Read user *******
+15:50:25.413 [main] INFO  - ******* Update user *******
+15:50:25.416 [main] INFO  - ******* Delete user *******
+15:54:01.951 [main] INFO  - ******* Create user *******
+15:54:03.646 [main] INFO  - ******* User is created *******
+15:54:03.659 [main] INFO  - ******* Read user *******
+15:54:03.849 [main] INFO  - ******* Update user *******
+15:54:04.041 [main] INFO  - ******* Delete user *******
+16:33:06.813 [main] INFO  - ******* Create user *******
+16:33:08.493 [main] INFO  - ******* User is created *******
+16:33:08.506 [main] INFO  - ******* Read user *******
+16:33:08.706 [main] INFO  - ******* Update user *******
